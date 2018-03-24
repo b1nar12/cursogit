@@ -25,7 +25,7 @@ Auth::routes();
 
 //Route::get('/home', 'HomeController@index')->name('home');
 
-
+//Comentario para curso de Git
 Route::get('/home', 'HomeController@index')->name('home');
 
 Route::get('roles', function(){
